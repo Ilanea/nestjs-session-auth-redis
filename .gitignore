@@ -33,6 +33,7 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+apps/nestjs-session-auth-redis/prisma/migrations/
 
 # System Files
 .DS_Store
