@@ -1,4 +1,4 @@
-# NestjsSessionAuthRedis
+# NestjsSessionAuthRedis - Local Login & Google Oauth Support
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
@@ -11,6 +11,9 @@ To start the development server run `nx serve nestjs-session-auth-redis`. Open y
 
 
 ## Setup Database
+```
+docker compose up
+```
 
 ```
 npx prisma generate
